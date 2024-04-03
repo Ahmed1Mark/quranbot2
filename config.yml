@@ -1,0 +1,14 @@
+status_bot: hi
+status_type: 0
+reset: احذف هذا السطر إذا كنت تريد تحط توكن جديد
+debug: 0
+guild_id: "803932212084473856"
+radio:
+  guild_id: "803932212084473856"
+  channel: https://qurango.net/radio/tarateel
+  voice:
+    createdAt: 1695032069694
+    id: "1153272831044485161"
+    type: 2
+  at: 1712169713812
+  by: "803873969168973855"
